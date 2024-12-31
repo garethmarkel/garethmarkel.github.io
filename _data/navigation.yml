@@ -7,10 +7,10 @@
 main:  
     
   - title: "Software"
-    url: /Software/
+    url: /software/
         
   - title: "Portfolio"
-    url: /Portfolio/
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
