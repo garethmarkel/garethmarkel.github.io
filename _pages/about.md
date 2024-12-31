@@ -12,5 +12,3 @@ Welcome! I am a data scientist currently working on research topics in social sc
 I'm currently completing a PhD in economics at George Mason, with fields in economic experiments and social science genetics. Prior to that, I obtained a master's degree and bachelor's degree in economics from the University of Alabama.
 
 
-Skills
-
