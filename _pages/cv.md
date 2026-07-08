@@ -10,9 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Background
-======
-
 I am a senior data scientist at Thor Solutions LLC, as well as an affiliate faculty member at George Mason University. Prior to this, I completed my PhD in economics at George Mason University in 2025. I also hold a master's degree and a bachelor's degree in economics from the University of Alabama. Between finishing my masters and finishing my doctorate, I worked as an energy trader for DC Energy in Washington, DC.
 
 Education
@@ -34,13 +31,13 @@ Markel G, Beauchamp JP, Ahlskog R, Ebeltoft JC, Möttus R, Oskarsson S, Vainik U
 Selected Talks
 ======
 
-#### "Neural ODEs for Human Factors Engineering"
+### "Neural ODEs for Human Factors Engineering"
  June 2026, Presented at the Annual Meeting of the Department of War Human Factors Engineering Technical Advisory Group
   
 
-#### "Essays in Social Genomics"
+### "Essays in Social Genomics"
 March 2025, Dissertation Defense at George Mason University
 
  
-#### "Bayesian Marketing Mix Modelling using PyMC3"
+### "Bayesian Marketing Mix Modelling using PyMC3"
 September 2024, Presented as part of the Mutual of Omaha Data Scientist Working Group presentation series
