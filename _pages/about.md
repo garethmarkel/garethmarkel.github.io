@@ -36,4 +36,4 @@ This paper uses extremely large scale biomedical data to identify 80,000 pairs o
 This package provides a set of tools for solving inverse problems constrained by partial differential equations using neural networks. The PDE constraints are enforced using the finite element method.
 
 ### [PRScs.jl](https://garethmarkel.github.io/posts/prs-cs-jl/)
-This package provides a set of tools for enhancing the predictive power of polygenic scores created using GWAS weights, by using a Bayesian sparse high dimensional regression framework to regularize the raw GWAS weights,
+This package provides a set of tools for enhancing the predictive power of polygenic scores created using GWAS weights, by using a Bayesian sparse high dimensional regression framework to regularize the raw GWAS weights.
