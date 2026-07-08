@@ -24,15 +24,15 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Gareth Markel"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist"
-  location         : "Arlington, VA"
+  bio              : "Quantitative Scientist"
+  location         : "Alexandria, VA"
   employer         : "George Mason Unversity"
   uri              : # URL
   email            : "garethmarkel@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?user=zM2-eDIAAAAJ&hl=en
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
